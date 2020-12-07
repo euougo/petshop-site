@@ -1,2 +1,2 @@
 # petshop-site
-PetShop site desenvolvido com HTML5 e CSS3
+PetShop site with HTML5, CSS3 and a bit of JavaScript.
